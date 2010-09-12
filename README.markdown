@@ -5,6 +5,7 @@ From Phil Hagelberg's emacs-starter-kit.
 ## Customizations
 
 * include PHP major mode (php-mode-improved)
+* include yasnippet (http://code.google.com/p/yasnippet/)
 
 ## Description
 
