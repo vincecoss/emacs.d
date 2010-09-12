@@ -1,5 +1,13 @@
 # Emacs Starter Kit
 
+From Phil Hagelberg's emacs-starter-kit.
+
+## Customizations
+
+* include PHP major mode (php-mode-improved)
+
+## Description
+
 The Starter Kit should provide a saner set of defaults than you get
 normally with Emacs. It was originally intended for beginners, but it
 should provide a reasonable working environment for anyone using Emacs
