@@ -1,3 +1,6 @@
+;; bring back menu bar
+(menu-bar-mode 1) 
+
 ;;; OS X specific config
 (setq mac-command-modifier 'meta)
 
