@@ -1,3 +1,5 @@
 loaddefs.el*
 backups/*
 places
+auto-save-list/*
+tramp

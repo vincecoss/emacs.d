@@ -16,6 +16,10 @@
 (yas/initialize)
 (yas/load-directory "~/.emacs.d/plugins/yasnippet-0.6.1c/snippets")
 
+;; Tramp to edit files over ssh
+(require 'tramp)
+(setq tramp-default-method "ssh")
+
 ;;; pref
 (color-theme-twilight)
 
