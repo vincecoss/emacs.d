@@ -2,8 +2,7 @@
 (menu-bar-mode 1) 
 
 ;; OS X specific config
-(setq mac-command-modifier 'meta)
-;;(setq mac-option-modifier 'meta)
+(setq mac-option-modifier 'meta)
 
 ;; Custom keybindings
 (normal-erase-is-backspace-mode 1) ; proper backspace/delete
@@ -17,7 +16,6 @@
 (yas/initialize)
 (yas/load-directory "~/.emacs.d/vendor/yasnippet-0.6.1c/snippets")
 
-(add-to-list 'load-path "~/.emacs.d/vendor/textmate.el")
 (require 'textmate)
 (textmate-mode)
 

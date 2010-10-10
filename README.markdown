@@ -6,6 +6,8 @@ From Phil Hagelberg's emacs-starter-kit.
 
 * include PHP major mode (php-mode-improved)
 * include yasnippet (http://code.google.com/p/yasnippet/)
+* include textmate minor mode
+* load slime with sbcl for lisp development
 
 ## Description
 
